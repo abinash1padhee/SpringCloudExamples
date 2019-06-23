@@ -12,6 +12,7 @@
         <module>client</module>
         <module>discovery-server</module>
         <module>service</module>
+        <module>config-server</module>
     </modules>
 
 </project>
