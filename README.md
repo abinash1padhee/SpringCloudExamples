@@ -13,6 +13,6 @@ Examples on Spring Cloud
 
 6. Intelligent Routing of services using Netflix Zuul.
 
-7. 
+7. Usage of Zuul Filters with a basic example using Request Headers.
 
 
