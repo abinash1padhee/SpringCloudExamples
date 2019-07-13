@@ -14,6 +14,9 @@
         <module>service</module>
         <module>config-server</module>
         <module>config-client-app</module>
+        <module>gateway-service</module>
+        <module>entry-service</module>
+        <module>exit-service</module>
     </modules>
 
 </project>

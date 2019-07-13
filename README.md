@@ -9,6 +9,10 @@ Examples on Spring Cloud
 
 4. Setup the Config Client using discovery first mechanism and bootstrap the configuration at startup in the cloud ecosystem.
 
-5. Refresh the configuration at runtime.
+5. Refresh the Config Server configuration at runtime.
+
+6. Intelligent Routing of services using Netflix Zuul.
+
+7. 
 
 
