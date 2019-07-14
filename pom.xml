@@ -17,6 +17,8 @@
         <module>gateway-service</module>
         <module>entry-service</module>
         <module>exit-service</module>
+        <module>ribbon-time-service</module>
+        <module>ribbon-time-app</module>
     </modules>
 
 </project>
