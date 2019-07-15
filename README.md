@@ -15,4 +15,6 @@ Examples on Spring Cloud
 
 7. Usage of Zuul Filters with a basic example using Request Headers.
 
+8. Use of @LoadBalanced for Load Balancing on Client side by creating multiple instances of a service.
+
 

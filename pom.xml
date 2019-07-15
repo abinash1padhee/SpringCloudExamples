@@ -19,6 +19,7 @@
         <module>exit-service</module>
         <module>ribbon-time-service</module>
         <module>ribbon-time-app</module>
+        <module>ribbon-time-service-without-service-discovery</module>
     </modules>
 
 </project>
