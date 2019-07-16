@@ -17,4 +17,6 @@ Examples on Spring Cloud
 
 8. Use of @LoadBalanced for Load Balancing on Client side by creating multiple instances of a service.
 
+9. Use of @RibbonClient for custom Load Balancing without using service discovery.
+
 

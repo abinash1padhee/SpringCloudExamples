@@ -10,13 +10,13 @@ import java.util.Date;
 
 @SpringBootApplication
 @RestController
-public class RibbonTimeServiceApplication {
+public class RibbonWithoutDiscoveryApplication {
 
     @Value("${server.port}")
     private int port;
 
     public static void main(String[] args) {
-        SpringApplication.run(RibbonTimeServiceApplication.class, args);
+        SpringApplication.run(RibbonWithoutDiscoveryApplication.class, args);
     }
 
     @GetMapping
