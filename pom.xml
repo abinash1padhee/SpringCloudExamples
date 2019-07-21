@@ -23,6 +23,7 @@
         <module>ribbon-time-app-without-discovery</module>
         <module>weather-app</module>
         <module>weather-service</module>
+        <module>hystrix-dashboard</module>
     </modules>
 
 </project>

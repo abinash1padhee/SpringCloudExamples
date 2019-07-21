@@ -19,4 +19,10 @@ Examples on Spring Cloud
 
 9. Use of @RibbonClient for custom Load Balancing without using service discovery.
 
+10. Fault Tolerance using Spring Cloud and Netflix Hystrix.
+
+11. Usage of Hystrix Dashboard and actuator to monitor the fault tolerance metrics of a service.
+
+12. Aggregating multiple hystrix streams with Turbine.
+
 
