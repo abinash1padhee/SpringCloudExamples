@@ -21,6 +21,8 @@
         <module>ribbon-time-app</module>
         <module>ribbon-time-service-without-service-discovery</module>
         <module>ribbon-time-app-without-discovery</module>
+        <module>weather-app</module>
+        <module>weather-service</module>
     </modules>
 
 </project>
