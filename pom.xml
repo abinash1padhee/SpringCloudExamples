@@ -24,6 +24,9 @@
         <module>weather-app</module>
         <module>weather-service</module>
         <module>hystrix-dashboard</module>
+        <module>datetime-app</module>
+        <module>datetime-service</module>
+        <module>turbine</module>
     </modules>
 
 </project>
